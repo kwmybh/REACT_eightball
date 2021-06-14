@@ -1,0 +1,31 @@
+.Eightball {
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+}
+
+.Eightball-ball {
+	display: flex;
+	margin: 0 auto;
+	width: 400px;
+	height: 400px;
+	border-radius: 100%;
+}
+
+.Eightball-text {
+	margin: auto;
+	color: white;
+	font-size: 1.5rem;
+}
+
+.Eightball-reset {
+	margin: 10px;
+	padding: 10px;
+	background-color: teal;
+	border: none;
+	border-radius: 5px;
+	box-shadow: none;
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: white;
+}
